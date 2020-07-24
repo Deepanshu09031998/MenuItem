@@ -60,7 +60,7 @@ namespace MenuItemListing.Controllers
             //Demo Purpose, I have Passed HardCoded User Information    
             if (login.Name == "Deepanshu")
             {
-                user = new Authenticate { Name = "Deepanshu", Password = "Deepanshu123" };
+                user = new Authenticate { Name = "Deepanshu", Password = "Deepanshu12" };
             }
             return user;
         }
