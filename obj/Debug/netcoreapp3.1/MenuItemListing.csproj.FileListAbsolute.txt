@@ -27,3 +27,4 @@ D:\Cognizant\truyum-WebApi\MenuItemListing\bin\Debug\netcoreapp3.1\System.Identi
 D:\Cognizant\truyum-WebApi\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.csproj.CoreCompileInputs.cache
 D:\Cognizant\truyum-WebApi\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.MvcApplicationPartsAssemblyInfo.cache
 D:\Cognizant\truyum-WebApi\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.csproj.CopyComplete
+D:\Cognizant\truyum-WebApi\MenuItemListing\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml
